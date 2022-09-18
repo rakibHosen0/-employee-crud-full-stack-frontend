@@ -1,4 +1,4 @@
-# Employee Crud Frontend Application 
+# Employee Crud Frontend Application. Spring boot, Reactjs and MySQL 
 ![react ss](https://user-images.githubusercontent.com/32547716/190892223-d3a831c4-f04e-40d8-8bed-0b3909a8581d.png)
 
 # Employee List
